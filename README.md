@@ -27,4 +27,4 @@ Our `Baselines.ipynb` file also contains a few baselines in which we compare our
 
 ### Packages
 These notebooks should run directly in Co-Lab. No packages outside of the ones in Co-Lab or the ones we install through the notebooks are necessary.
-### Note: Please save in a folder called `287 Project` before uploading to Co-Lab to prevent having to modify the mount, please also uncompress the `blog_dataset.zip` file
+### Note: Please save in a folder called `287 Project` before uploading to Co-Lab to prevent having to modify the mount, please also uncompress the `blog_dataset.zip` file which you can find in the Canvas submission (too large for Github)
